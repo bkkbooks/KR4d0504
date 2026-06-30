@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0504/WYG/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圭齋文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 16:25:28.825149'
+  source:
+    repository: kanripo
+    path: KR4d0504/KR4d0504_015.txt
+hash: sha256:91616e540e74bf359aa27529ed9ae5db4fab5455b74c97f32570886673416e29
